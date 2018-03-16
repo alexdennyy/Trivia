@@ -1,0 +1,32 @@
+#playInterface {
+    background: mediumaquamarine;
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-bottom: 200px;
+}
+
+#options1{
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#question{
+    padding-top: 50px;
+    font-family: "Teabags";
+    font-size: 30pt;
+}
+
+@font-face {
+    font-family: "Teabags";
+    src: url("fonts/Teabags.otf");
+}
+
+#notify{
+    font-family: "Teabags";
+    font-size: 30pt;
+}
